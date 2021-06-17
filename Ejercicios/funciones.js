@@ -1,14 +1,14 @@
-// Declarativas
+//Declarativas
 
-function miFuncion(){
+function miFuncion{
     return 3;
 }
 
 miFuncion();
 
-//Expresión o anonimas
+//Expresion, también conocida como funciones ánonima
 
-var miFuncion = function(a,b){
+var miFuncion = function (a, b) {
     return a + b;
 }
 
